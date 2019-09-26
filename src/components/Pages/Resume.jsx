@@ -15,7 +15,7 @@ export default class Resume extends Component {
             <h2 className="h2-resume">Pendidikan</h2>
             <ul>
               <li>STIMIK JAYAKARTA JAKARTA</li>
-              <li>Lulus sebagai Sarjana Komputer Tahun 2016– 2018</li>
+              <li>Lulus sebagai Sarjana Komputer Tahun 2016 s.d 2018</li>
               <li>IPK : 3.38</li>
               
             </ul>
