@@ -21,7 +21,7 @@ const toolbar = props => (
     <ul>
         
         <li><a href="/">Home</a></li>
-        <li><a href="https://ridwanarkan.github.io/resume/about">Biography</a></li>
+        <li><a href="/resume/about">Biography</a></li>
         <li><a href="/experience">Experience</a></li>
         <li><a href="/resume">Education</a></li>
         <li><a href="/gallery">Galery</a></li>
