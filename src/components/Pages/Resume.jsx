@@ -21,7 +21,7 @@ export default class Resume extends Component {
 
             <ul>
               <li>STIMIK IKMI CIREBON</li>
-              <li>Diploma 3 Program Beasiswa Unggulan Kemendikbud</li>
+              <li>Diploma-3 Program Beasiswa Unggulan Kemendikbud</li>
               <li>Bidang Konsentrasi Teknik Komputer dan Jaringan</li>
             </ul>
 
